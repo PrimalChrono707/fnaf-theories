@@ -1,4 +1,10 @@
-* {background-color: rgb(18, 1, 94);}
+* {background-color: rgba(27, 0, 102, 0);}
 body {
- padding: 100px
+    background-color: rgb(1, 0, 77);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 100px;
+    padding-left: 100px;
+    color: rgb(167, 167, 167);
+    border: 1px solid #ff4800
 }
